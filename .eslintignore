@@ -1,0 +1,13 @@
+docker-compose*
+Dockerfile*
+node_modules
+dist
+coverage
+requirements
+.vscode
+*.js
+*.json
+README.md
+.env*
+prisma/**/*
+nginx.conf
